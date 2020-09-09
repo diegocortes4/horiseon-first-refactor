@@ -1,1 +1,2 @@
 # horiseon-first-refactor
+This project is about refactoring an existing aplication, we were given de code, and we created a new repository with a readme file. The link will be at the github pages server.
